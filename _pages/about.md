@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-\n
-\n
-Bio
-======
 This is Yingfan Zhou, a first-year PhD student in information science at [School of Computing and Information, University of Pittsburgh](http://sci.pitt.edu/). I am luckily advised by Dr. [Rosta Farzan](http://rosta-farzan.net/). I also work with Dr. [Michael P. Colaresi](https://www.michaelcolaresi.com/) and the Text(Co)Lab. 
 
 Research Interests
